@@ -1,5 +1,5 @@
 name: swipe_to_back
-description: A new Flutter package project.
+description: A simple to use flutter package that helps you to implement swipe up or down to go back like twitter.
 version: 0.0.1
 repository: https://github.com/srujanmhase/swipe_to_back
 
